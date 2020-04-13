@@ -5,7 +5,7 @@
 - [fastapi](https://github.com/tiangolo/fastapi)
 
 ## Frontend
-- [vue.js](https://vuejs.org/)
+- [vue.js](https://github.com/vuejs/vue/)
 - nginx
 
 ## Local Development
