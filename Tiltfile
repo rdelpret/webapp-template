@@ -4,6 +4,9 @@ k8s_yaml('kubernetes/backend/service.yaml')
 k8s_yaml('kubernetes/frontend/deployment.yaml')
 k8s_yaml('kubernetes/frontend/service.yaml')
 
+k8s_yaml('kubernetes/psql/deployment.yaml')
+k8s_yaml('kubernetes/psql/service.yaml')
+
 docker_build('backend', 'backend/.')
 docker_build('frontend', 'frontend/.')
 
