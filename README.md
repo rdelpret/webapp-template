@@ -1,4 +1,4 @@
-# Webapp Template
+# webapp template
 
 ## Backend
 - python3
