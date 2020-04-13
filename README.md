@@ -2,10 +2,10 @@
 
 ## Backend
 - python3
-- fastapi
+- [fastapi](https://github.com/tiangolo/fastapi)
 
 ## Frontend
-- vue.js
+- [vue.js](https://vuejs.org/)
 - nginx
 
 ## Local Development
