@@ -1,12 +1,12 @@
 # webapp template
 
 ## Backend
-- python3
+- [python3](https://github.com/python/cpython)
 - [fastapi](https://github.com/tiangolo/fastapi)
 
 ## Frontend
 - [vue.js](https://github.com/vuejs/vue/)
-- nginx
+- [nginx](https://www.nginx.com/)
 
 ## Local Development
 
