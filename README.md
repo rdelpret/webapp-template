@@ -3,6 +3,7 @@
 ## Backend
 - [python3](https://github.com/python/cpython)
 - [fastapi](https://github.com/tiangolo/fastapi)
+- [psql](https://www.postgresql.org/)
 
 ## Frontend
 - [vue.js](https://github.com/vuejs/vue/)
